@@ -4,4 +4,4 @@ python-dotenv
 label-studio-tools
 requests
 appdirs
-PIL
+Pillow
